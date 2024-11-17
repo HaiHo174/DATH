@@ -1,0 +1,12 @@
+D:\Study\STU\HK1_24-25\DATH\QL_ThuVien2\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+D:\Study\STU\HK1_24-25\DATH\QL_ThuVien2\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe
+D:\Study\STU\HK1_24-25\DATH\QL_ThuVien2\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
+D:\Study\STU\HK1_24-25\DATH\QL_ThuVien2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.AssemblyReference.cache
+D:\Study\STU\HK1_24-25\DATH\QL_ThuVien2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.SuggestedBindingRedirects.cache
+D:\Study\STU\HK1_24-25\DATH\QL_ThuVien2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
+D:\Study\STU\HK1_24-25\DATH\QL_ThuVien2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.cache
+D:\Study\STU\HK1_24-25\DATH\QL_ThuVien2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.CoreCompileInputs.cache
+D:\Study\STU\HK1_24-25\DATH\QL_ThuVien2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+D:\Study\STU\HK1_24-25\DATH\QL_ThuVien2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
+D:\Study\STU\HK1_24-25\DATH\QL_ThuVien2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmSach.resources
+D:\Study\STU\HK1_24-25\DATH\QL_ThuVien2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTacGia.resources
